@@ -14,11 +14,11 @@ Based on various meteorological surveys and people's styles, the service provide
 It is required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
 ## Steps followed for Model Prediciton
-1.Reading, understanding and visualizing the data
-2.Preparing the data for modelling
-3.Training the model
-4.Residual Analysis
-5.Prediciton and evaluation on the Test set
+ - Reading, understanding and visualizing the data
+ - Preparing the data for modelling
+ - Training the model
+ - Residual Analysis
+ - Prediciton and evaluation on the Test set
 
 ## Conclusion
 On analysing data it was observed that, the linear regression model was able to predict bike demand precisely with an R^2 score of more that 75 %
